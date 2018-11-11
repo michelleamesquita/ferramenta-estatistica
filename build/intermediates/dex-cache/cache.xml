@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.3.1_e6a006641c5a3ec24986d0eea6c33c81f639e45b.jar" />
+    </item>
+    <item
+        jar="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.3.1_cde5df9d88aa9e137a329a306ee18ccc843238e6.jar" />
+    </item>
+    <item
+        jar="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.3.1_a77745f86426d78f81169b6dc54f85a52d2bc7d3.jar" />
+    </item>
+    <item
+        jar="/Users/michellemesquita/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        revision="28.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_1d2262a7ce1ef11166c1345844297f30ae579cd1.jar" />
+    </item>
+    <item
+        jar="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.3.1_c0b247fe42ce8baf8e0bed3a8e89d1c9680e2210.jar" />
+    </item>
+    <item
+        jar="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.3.1_afe5c9215cd3ca6c2674a5feb7eb26d954669b1d.jar" />
+    </item>
+    <item
+        jar="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.3.1_57ccef55b9e170bf79a184c5cf675fce4eecd7e6.jar" />
+    </item>
+    <item
+        jar="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.3.1_ae1c80b32ec77171664abe8b8bee5a510051a471.jar" />
+    </item>
+    <item
+        jar="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.3.1_cacfe2ceed5ef90fad2db87c7541d2af4034b2b1.jar" />
+    </item>
+    <item
+        jar="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="28.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/michellemesquita/AndroidStudioProjects/FerramentasEstatisticas/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.3.1_40b178957da7c670932b9be835bb4d83761a417a.jar" />
+    </item>
+
+</items>
